@@ -1,1 +1,1 @@
-<a onlcick=alert(1)>aman</a>
+<a onclick=alert(1)>aman</a>
